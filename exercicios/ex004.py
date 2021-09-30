@@ -1,0 +1,8 @@
+x = input('Digite algo:')
+print('o tipo da variavel é', type(x))
+print('é apenas numerico?', x.isnumeric())
+print('é apenas alfabetico?', x.isalpha())
+print('é apenas maiusculo?', x.isupper())
+print('é apenas minusculo?', x.islower())
+print('é numerico e alfabetico?', x.isalnum())
+print('Só tem espaços?', x.isspace())
