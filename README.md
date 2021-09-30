@@ -1,4 +1,4 @@
 # Python
  Minha evolução com Python
 
-Exercicios faculdade e cursos paralelos
+Exercicios da faculdade e cursos paralelos (curso em video, URI, etc).
